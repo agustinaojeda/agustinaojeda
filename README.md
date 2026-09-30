@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Agustina</h1>
-<h3 align="center">Desarrolladora Web y estudiante de la Lic. en Ciencias de la Computación</h3>
+<h3 align="center">Técnica en Desarrollo Web y estudiante de la Lic. en Ciencias de la Computación</h3>
 
 - 🌱 Actualmente estoy aprendiendo **React.js, Node.js**
   
